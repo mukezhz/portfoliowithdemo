@@ -1,6 +1,6 @@
-# {{DECKDECKGO_TITLE}}
+# PortfolioWithDemo
 
-{{DECKDECKGO_DESCRIPTION}} 
+Show your portfolio to the world 
 
 ## Table of contents
 
@@ -11,15 +11,15 @@
 
 ## Slides
 
-🔗 [https://beta.deckdeckgo.io{{DECKDECKGO_BASE_HREF}}](https://beta.deckdeckgo.io{{DECKDECKGO_BASE_HREF}})
+🔗 [https://beta.deckdeckgo.io/krchaudharymukesh/portfoliowithdemo/](https://beta.deckdeckgo.io/krchaudharymukesh/portfoliowithdemo/)
 
 ## Usage
 
 💻 To get started locally with this presentation, clone this repo and install its dependencies.
 
 ```
-git clone {{DECKDECKGO_GITHUB_REPO_URL}}
-cd {{DECKDECKGO_GITHUB_REPO_NAME}}
+git clone https://github.com/mukezhz/portfoliowithdemo
+cd portfoliowithdemo
 npm install
 ```
 
